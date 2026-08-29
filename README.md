@@ -38,7 +38,8 @@ CREATE TABLE documents (
 );
 ```
 ## 🖧 Connect Database
-> Overview
+> klik tab Overview
+> > Connect (kanan atas)
 > > Database RAG
 > > > General Python (MySQL Connector)
 > > > > Generate password
