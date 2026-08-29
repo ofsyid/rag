@@ -39,7 +39,7 @@ CREATE TABLE documents (
 ```
 ## 🖧 Connect Database
 > Overview
-> > Pilih Database RAG
+> > Database RAG
 > > > General Python (MySQL Connector)
 > > > > Generate password
 
