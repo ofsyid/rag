@@ -11,7 +11,7 @@ llm_agent = ollama.Client(host=OLLAMA_HOST)
 embedder = SentenceTransformer('BAAI/bge-m3')
 
 db = mysql.connector.connect(
- # DIAMBIL DARI TI.DB PASTE DISINI
+ # DIAMBIL DARI TI.DB, PASTE DISINI
  # python (MySQL Connector)
 )
 
