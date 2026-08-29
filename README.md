@@ -11,12 +11,14 @@ tidb.io
 > > > Machine Learning Engineer
 > > > > Mysql
 > > > >  > Python
-> > > >  > > comapany name.
+> > > >  > > Isi bebas nama Company/Name.
 
+## </> Setting Database 
+> Create Resource
+> > Starter
+> > > Instance Name: Project1
+> > > > Create
 
-```
-konfig
-```
 
 ## ⚙️ Ollama Setup
 
