@@ -16,7 +16,7 @@ tidb.io
 ## </> Setting Database 
 > Create Resource
 > > Starter
-> > > Instance Name: Project1
+> > > Instance Name Project1
 > > > > Create
 > > > > > Refresh halaman
 
@@ -38,11 +38,11 @@ CREATE TABLE documents (
 );
 ```
 ## 🖧 Connect Database
-> klik tab Overview
+> Klik tab Overview
 > > Connect (kanan atas)
-> > Database RAG
-> > > General Python (MySQL Connector)
-> > > > Generate password
+> > > Database RAG
+> > > > General Python (MySQL Connector)
+> > > > > Generate password
 
 ## ⚙️ Ollama Setup
 
