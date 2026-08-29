@@ -15,6 +15,9 @@ db = mysql.connector.connect(
  # python (MySQL Connector)
 )
 
+# jika error masukkan:
+# # ssl_ca = r"C:\Users\LENOVO\Desktop\RAG_TIDB\path.pem" 
+
 
 
 def search_document(database,query,k_top=5):
