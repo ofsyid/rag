@@ -1,0 +1,39 @@
+question,answer
+siapa owner kedai ini?, Bernama Rasyiid Putra Wijaya
+Pendiri kedai ini?, Rasyiid
+Siapa pemilik kedai ini?, Rasyiid Putra Wijaya
+Apa nama kedai ini?,Nama kedai ini adalah Teh Kekinian.
+Berapa harga Teh Original?,Harga Teh Original adalah Rp8.000.
+Berapa harga Teh Lemon?,Harga Teh Lemon adalah Rp10.000.
+Berapa harga Teh Lychee?,Harga Teh Lychee adalah Rp12.000.
+Berapa harga Teh Mango?,Harga Teh Mango adalah Rp12.000.
+Berapa harga Thai Tea?,Harga Thai Tea adalah Rp13.000.
+Berapa harga Matcha Latte?,Harga Matcha Latte adalah Rp15.000.
+Apa itu Teh Original?,Teh Original adalah teh manis dengan rasa teh yang kuat dan menyegarkan.
+Apa itu Teh Lemon?,Teh Lemon adalah minuman teh yang dicampur dengan lemon segar sehingga memiliki rasa manis dan sedikit asam.
+Apa itu Teh Lychee?,Teh Lychee adalah minuman teh dengan perpaduan rasa buah leci yang manis dan aroma yang menyegarkan.
+Apa itu Teh Mango?,Teh Mango adalah minuman teh dengan perpaduan rasa mangga yang manis dan menyegarkan.
+Apa itu Thai Tea?,Thai Tea adalah minuman teh khas Thailand dengan rasa creamy dan manis.
+Apa itu Matcha Latte?,Matcha Latte adalah minuman berbahan dasar matcha yang dicampur dengan susu sehingga memiliki rasa creamy dan lembut.
+Apakah bisa memesan melalui WhatsApp?,Ya pelanggan dapat melakukan pemesanan melalui WhatsApp.
+Apakah tersedia layanan delivery?,Ya tersedia layanan delivery untuk area tertentu.
+Apakah bisa request tingkat gula?,Ya pelanggan dapat memilih normal sugar less sugar atau no sugar.
+Apakah bisa request jumlah es?,Ya pelanggan dapat memilih normal ice less ice atau no ice.
+Apakah tersedia pembayaran QRIS?,Ya pembayaran menggunakan QRIS tersedia.
+Apakah bisa membayar dengan uang tunai?,Ya pelanggan dapat melakukan pembayaran secara tunai.
+Apakah bisa melakukan pembayaran melalui transfer?,Ya pembayaran melalui transfer bank tersedia.
+Apakah bisa memesan dalam jumlah banyak?,Ya pelanggan dapat melakukan pemesanan dalam jumlah banyak. Untuk pesanan besar sebaiknya melakukan pemesanan terlebih dahulu.
+Jam berapa kedai buka?,Kedai buka setiap hari mulai pukul 09.00 sampai 22.00 WIB.
+Apakah kedai buka sampai malam?,Ya kedai buka sampai pukul 22.00 WIB.
+Minuman apa yang cocok untuk saya yang suka rasa manis?,Jika menyukai rasa manis Anda dapat mencoba Teh Lychee Teh Mango Thai Tea atau Matcha Latte.
+Minuman apa yang paling sederhana?,Teh Original merupakan pilihan paling sederhana dengan rasa teh yang kuat dan menyegarkan.
+Saya suka rasa buah minuman apa yang cocok?,Anda dapat mencoba Teh Lemon Teh Lychee atau Teh Mango.
+Saya suka minuman creamy pilih apa?,Thai Tea dan Matcha Latte cocok untuk Anda yang menyukai minuman dengan rasa creamy.
+Apakah bisa pesan tanpa gula?,Ya pelanggan dapat meminta minuman tanpa gula atau no sugar.
+Apakah bisa pesan dengan sedikit gula?,Ya pelanggan dapat memilih less sugar.
+Apakah bisa pesan tanpa es?,Ya pelanggan dapat memilih no ice.
+Bagaimana cara melakukan pemesanan?,Pilih menu yang diinginkan tentukan jumlah pesanan pilih tingkat gula dan es kemudian berikan nama serta alamat jika menggunakan layanan delivery.
+Informasi apa yang diperlukan untuk memesan?,Informasi yang diperlukan adalah nama pelanggan menu yang dipesan jumlah setiap menu pilihan tingkat gula pilihan jumlah es alamat pengiriman jika menggunakan delivery dan metode pembayaran.
+Apakah AI boleh mengarang harga menu?,Tidak. AI harus menggunakan harga yang tersedia di knowledge base dan tidak boleh mengarang harga.
+Bagaimana jika pelanggan bertanya tentang menu yang tidak tersedia?,AI harus memberitahu bahwa menu tersebut belum tersedia atau belum terdapat dalam knowledge base dan tidak boleh mengarang informasi.
+Bagaimana jika informasi yang ditanyakan pelanggan tidak ada di knowledge base?,AI harus mengatakan bahwa informasi tersebut belum tersedia dan tidak boleh memberikan informasi yang tidak diketahui sebagai fakta.
