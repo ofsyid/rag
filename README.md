@@ -20,7 +20,7 @@ tidb.io
 > > > > Create
 > > > > > Refresh halaman
 
-## 📝 Membuat Database
+## 📝 Create Database
 Run
 ``` text
 CREATE DATABASE RAG;
@@ -37,6 +37,11 @@ CREATE TABLE documents (
   embedding VECTOR(1024)
 );
 ```
+## 🖧 Connect Database
+> Overview
+> > Pilih Database RAG
+> > > General Python (MySQL Connector)
+> > > > Generate password
 
 ## ⚙️ Ollama Setup
 
@@ -61,13 +66,15 @@ Run in the cmd:
 python -m venv .venv
 ```
 ## 📁 Install Library python
-Run in the cmd:
+Untuk ubah data menjadi vektor. Run cmd:
 
 ```bash
-python sentence-transformer
+pip install sentence-transformers
 ```
-
-Model dijalankan secara lokal menggunakan **Ollama**.
+Untuk mengkoneksikan ke Database Tidb. Run cmd:
+```bash
+pip install mysql-connector-pyhton
+```
 
 ## ✨ Features
 
