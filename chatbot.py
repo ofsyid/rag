@@ -11,14 +11,8 @@ llm_agent = ollama.Client(host=OLLAMA_HOST)
 embedder = SentenceTransformer('BAAI/bge-m3')
 
 db = mysql.connector.connect(
- host = "gateway01.ap-southeast-1.prod.aws.tidbcloud.com",
-  port = 4000,
-  user = "2NMeMXHpYJWjnBz.root",
-  password = "nbILMEG4ndMHOh0q",
-  database = "RAG",
-  ssl_ca = r"C:\Users\LENOVO\Desktop\RAG_TIDB\ca.pem",
-  ssl_verify_cert = True,
-  ssl_verify_identity = True
+ # DIAMBIL DARI TI.DB PASTE DISINI
+ # python (MySQL Connector)
 )
 
 
