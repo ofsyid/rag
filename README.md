@@ -18,7 +18,25 @@ tidb.io
 > > Starter
 > > > Instance Name: Project1
 > > > > Create
+> > > > > Refresh halaman
 
+## 📝 Membuat Database
+Run
+``` text
+CREATE DATABASE RAG;
+```
+Run
+``` text
+USE RAG;
+```
+Run
+``` text
+CREATE TABLE documents (
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  text TEXT,
+  embedding VECTOR(1024)
+);
+```
 
 ## ⚙️ Ollama Setup
 
