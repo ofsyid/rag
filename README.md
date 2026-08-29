@@ -1,10 +1,23 @@
 # Chatbot Anti Halusinasi! Bikin AI Jawab Akurat Pakai RAG, DeepSeek & TiDB
 > RAG Merupakan teknik dalam kecerdasan buatan yang menggabungkan model bahasa besar (LLM) dengan pencarian data eksternal agar jawaban yang diberikan lebih akurat dan sesuai dengan fakta terkini.
 
-# 🧠 RAG with Ollama — DeepSeek LLM
+## 🔒 Database Setup
+Kunjungi 
+```
+tidb.io
+``` 
+> Get started
+> > Personal learning or project
+> > > Machine Learning Engineer
+> > > > Mysql
+> > > >  > Python
+> > > >  > > comapany name.
 
-> Retrieval-Augmented Generation (RAG) menggunakan **Ollama** dan model **DeepSeek LLM** untuk menjawab pertanyaan berdasarkan informasi dari dokumen atau knowledge base.
-> 
+
+```
+konfig
+```
+
 ## ⚙️ Ollama Setup
 
 Pull the model in powershell:
