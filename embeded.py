@@ -8,7 +8,8 @@ from sentence_transformers import SentenceTransformer
 embedder = SentenceTransformer('BAAI/bge-m3')
 
 db = mysql.connector.connect(
- # TEMPEL DISINI, DIAMBIL DARI TI.DB
+ # TEMPEL DISINI, DIAMBIL DARI TI.DB 
+ # python (MySQL Connector)
 )
 
 curr = db.cursor()
