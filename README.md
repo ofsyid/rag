@@ -40,7 +40,9 @@ CREATE TABLE documents (
 
 ## ⚙️ Ollama Setup
 
-Pull the model in powershell:
+PASTIKAN SUDAH INSTALL OLLAMA: https://ollama.com/download
+
+Pull the model in cmd:
 
 ```bash
 ollama pull deepseek-llm:latest
@@ -52,11 +54,17 @@ Run the model:
 ollama run deepseek-llm:latest
 ```
 
+## 🤖 Install Virtual Environment
+Run in the cmd:
 
-## 🤖 Model
+```bash
+python -m venv .venv
+```
+## 📁 Install Library python
+Run in the cmd:
 
-```text
-deepseek-llm:latest
+```bash
+python sentence-transformer
 ```
 
 Model dijalankan secara lokal menggunakan **Ollama**.
