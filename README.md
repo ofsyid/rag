@@ -7,7 +7,7 @@
 > 
 ## ⚙️ Ollama Setup
 
-Pull the model:
+Pull the model in powershell:
 
 ```bash
 ollama pull deepseek-llm:latest
