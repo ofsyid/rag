@@ -11,6 +11,8 @@ db = mysql.connector.connect(
  # TEMPEL DISINI, DIAMBIL DARI TI.DB 
  # python (MySQL Connector)
 )
+# jika error masukkan:
+# # ssl_ca = r"C:\Users\LENOVO\Desktop\RAG_TIDB\path.pem" 
 
 curr = db.cursor()
 
