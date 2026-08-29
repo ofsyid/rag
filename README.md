@@ -1,7 +1,51 @@
-# RETRIEVAL-AUGMENTED GENERATION (RAG)
-Merupakan teknik dalam kecerdasan buatan yang menggabungkan model bahasa besar (LLM) dengan pencarian data eksternal agar jawaban yang diberikan lebih akurat dan sesuai dengan fakta terkini.
+# Chatbot Anti Halusinasi! Bikin AI Jawab Akurat Pakai RAG, DeepSeek & TiDB
+> RAG Merupakan teknik dalam kecerdasan buatan yang menggabungkan model bahasa besar (LLM) dengan pencarian data eksternal agar jawaban yang diberikan lebih akurat dan sesuai dengan fakta terkini.
 
-# Cara Kerja RAG:
-Pengambilan Data (Retrieval)  : Saat Anda memberikan pertanyaan, sistem mencari dokumen atau informasi yang relevan dari database eksternal.
-Augmentasi (Augmented)        : Informasi yang ditemukan dari database tersebut digabungkan ke dalam prompt atau instruksi awal Anda sebagai konteks tambahan.
-Pembangkitan Teks (Generation): Model AI (seperti Gemini atau LLM lainnya) membaca konteks tersebut lalu menyusun jawaban akhir yang akurat.
+# 🧠 RAG with Ollama — DeepSeek LLM
+
+> Retrieval-Augmented Generation (RAG) menggunakan **Ollama** dan model **DeepSeek LLM** untuk menjawab pertanyaan berdasarkan informasi dari dokumen atau knowledge base.
+> 
+## ⚙️ Ollama Setup
+
+Pull the model:
+
+```bash
+ollama pull deepseek-llm:latest
+```
+
+Run the model:
+
+```bash
+ollama run deepseek-llm:latest
+```
+
+
+## 🤖 Model
+
+```text
+deepseek-llm:latest
+```
+
+Model dijalankan secara lokal menggunakan **Ollama**.
+
+## ✨ Features
+
+* 📚 Document-based Question Answering
+* 🔍 Semantic Retrieval
+* 🧠 Retrieval-Augmented Generation
+* 🦙 Local LLM with Ollama
+* 🔒 Local AI processing
+
+## 🛠️ Tech Stack
+
+* 🐍 Python
+* 🦙 Ollama
+* 🧠 DeepSeek LLM
+* 🔍 RAG
+* 🔢 Embedding
+* 🗄️ Vector Database
+
+
+---
+
+⭐ **If you find this project useful, consider giving it a star!**
